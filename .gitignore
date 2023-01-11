@@ -5,9 +5,11 @@
 /.pnp
 .pnp.js
 .env
+
+
 # testing
 /coverage
-
+/da
 # next.js
 /.next/
 /out/
